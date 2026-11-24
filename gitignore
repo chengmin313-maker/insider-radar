@@ -1,0 +1,14 @@
+# 快取檔案（每人自己爬取產生）
+market_insider_cache.json
+mops_cache.json
+sent_news.json
+
+# 董監事對照表（每人自己產生）
+boss_mapping.json
+
+# 雜項
+新增 文字文件.txt
+
+# Python
+__pycache__/
+*.pyc
